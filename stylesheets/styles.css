@@ -7,14 +7,14 @@
 @font-face {
   font-family: "ChunkFive";
   src: url('../fonts/Chunkfive-webfont.eot');
-  src: url('../fonts/Chunkfive-webfont.eot?#iefix') format('eot'), url('fonts/Chunkfive-webfont.ttf') format('truetype'), url('fonts/Chunkfive-webfont.otf') format('opentype'), url('fonts/Chunkfive-webfont.woff') format('woff');
+  src: url('../fonts/Chunkfive-webfont.eot?#iefix') format('eot'), url('../fonts/Chunkfive-webfont.ttf') format('truetype'), url('../fonts/Chunkfive-webfont.otf') format('opentype'), url('fonts/Chunkfive-webfont.woff') format('woff');
   font-weight: normal;
 }
 
 @font-face {
   font-family: "OpenSans";
   src: url('../fonts/OpenSans-Regular-webfont.eot');
-  src: url('../fonts/OpenSans-Regular-webfont.eot?#iefix') format('eot'), url('fonts/OpenSans-Regular-webfont.ttf') format('truetype'), url('fonts/OpenSans-Regular-webfont.otf') format('opentype'), url('fonts/OpenSans-Regular-webfont.woff') format('woff');
+  src: url('../fonts/OpenSans-Regular-webfont.eot?#iefix') format('eot'), url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype'), url('fonts/OpenSans-Regular-webfont.otf') format('opentype'), url('fonts/OpenSans-Regular-webfont.woff') format('woff');
   font-weight: normal;
 }
 @font-face {
