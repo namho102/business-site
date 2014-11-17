@@ -1,4 +1,3 @@
 business-site
 =============
-Foundation framework
-SASS
+Foundation framework with SASS
