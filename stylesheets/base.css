@@ -5,13 +5,7 @@
 /**
  * Correct `block` display not defined in IE 8/9.
  */
- /*
- font-face
- */
- @font-face {
-    font-family: "OpenSans";
-     src: url('../fonts/OpenSans-Regular-webfont.ttf');
-}
+
 /* line 11, ../sass/_normalize.scss */
 article,
 aside,
